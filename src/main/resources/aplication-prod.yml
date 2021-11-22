@@ -1,0 +1,12 @@
+spring:
+
+
+
+kafka:
+bootstrap-servers: localhost:9090
+
+profiles:
+active: default
+
+server:
+port: 8081
